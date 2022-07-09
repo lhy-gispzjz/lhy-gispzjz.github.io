@@ -1,7 +1,9 @@
 # Hongyang Liu (刘弘洋)
 
+<td width="25%">
+  <img src="/chuochuo.jpg" width="32%">
+</td>
 I am a PhD student in the <a href="http://tcs.nju.edu.cn/">Theory Group</a> in the Department of Computer Science and Technology at Nanjing University. <br/>
-
 <b>E-mail</b>: gispzjz AT gmail.com <br/>
 <b>Office</b>: 410, Department of Computer Science and Technology, Nanjing University(Xianlin Campus)
 
