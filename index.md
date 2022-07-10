@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Hongyang Liu (刘弘洋)
 
 <td width="25%">
