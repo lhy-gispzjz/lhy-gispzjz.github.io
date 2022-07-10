@@ -22,6 +22,6 @@ The co-authors of papers are listed in alphabetical order.
 * Combinatorics (Spring 2020, Spring 2021)
 
 ### Awards
-* 2020 ICPC World Final Invitational, Runner-up(Silver Medel).
+* 2020 ICPC World Final Invitational, Runner-up (Silver Medel).
 * 2019 ICPC Nanchang Regional, Champion.
 * 2018 ICPC Qingdao Regional, Champion.
