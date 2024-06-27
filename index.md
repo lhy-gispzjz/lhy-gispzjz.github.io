@@ -19,9 +19,11 @@ The co-authors of papers are listed in alphabetical order.
   In <em>the 54th ACM Symposium on Theory of Computing</em> (<b>STOC</b> 2022).
 
 ### Teaching Assistant
-* Combinatorics (Spring 2020, Spring 2021)
+* Advanced algorithms (Fall 2022)
+* Combinatorics (Spring 2020, Spring 2021, Spring 2024)
 
 ### Awards
+* 2023 ICPC World Final, Silver Medel.
 * 2020 ICPC World Final Invitational, Runner-up (Silver Medel).
 * 2019 ICPC Nanchang Regional, Champion.
 * 2018 ICPC Qingdao Regional, Champion.
