@@ -30,8 +30,8 @@ The co-authors of papers are listed in alphabetical order.
   Hongyang Liu, Yitong Yin. <br/>
   <em>arXiv preprint arXiv:2502.05437</em>.
 
-* <b>Protecting against Simultaneous Data Poisoning Attacks.</b> <a href="https://arxiv.org/pdf/2408.13221">[arxiv]</a> <br/>
-  Hongyang Liu, Yitong Yin, Yiyao Zhang. <br/>
+* <b>Local Gibbs Sampling beyond Local Uniformity.</b> <a href="https://arxiv.org/pdf/2502.10795">[arxiv]</a> <br/>
+  Hongyang Liu, Chunyang Wang, Yitong Yin. <br/>
   <em>arXiv preprint arXiv:2408.13221</em>.
 
 ### Teaching Assistant
