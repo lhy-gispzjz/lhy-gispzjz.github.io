@@ -32,7 +32,7 @@ The co-authors of papers are listed in alphabetical order.
 
 * <b>Local Gibbs Sampling beyond Local Uniformity.</b> <a href="https://arxiv.org/pdf/2502.10795">[arxiv]</a> <br/>
   Hongyang Liu, Chunyang Wang, Yitong Yin. <br/>
-  <em>arXiv preprint arXiv:2408.13221</em>.
+  <em>arXiv preprint arXiv:2502.10795</em>.
 
 ### Teaching Assistant
 * Advanced algorithms (Fall 2020, 2022)
