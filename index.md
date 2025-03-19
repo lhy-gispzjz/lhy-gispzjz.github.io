@@ -27,7 +27,7 @@ The co-authors of papers are listed in alphabetical order.
   <em>arXiv preprint arXiv:2408.09719</em>.
 
 * <b>Approximating the Total Variation Distance between Spin Systems.</b> <a href="https://arxiv.org/pdf/2502.05437">[arxiv]</a> <br/>
-  Hongyang Liu, Yitong Yin. <br/>
+  Weiming Feng, Hongyang Liu, Minji Yang <br/>
   <em>arXiv preprint arXiv:2502.05437</em>.
 
 * <b>Local Gibbs Sampling beyond Local Uniformity.</b> <a href="https://arxiv.org/pdf/2502.10795">[arxiv]</a> <br/>
