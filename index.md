@@ -30,13 +30,13 @@ The co-authors of papers are listed in alphabetical order.
   Weiming Feng, Hongyang Liu, Minji Yang. <br/>
   In <em>Conference on Learning Theory (COLT) 2025</em>.  
 
-* <b>Local Gibbs Sampling beyond Local Uniformity.</b> <a href="https://arxiv.org/pdf/2502.10795">[arXiv]</a> <br/>
-  Hongyang Liu, Chunyang Wang, Yitong Yin. <br/>
-  To appear in <em>ACM-SIAM Symposium on Discrete Algorithms (SODA) 2026</em>.  
-
 * <b>Efficient Parallel Ising Samplers via Localization Schemes.</b> <a href="https://arxiv.org/pdf/2505.05185">[arXiv]</a> <br/>
   Xiaoyu Chen, Hongyang Liu, Yitong Yin, Xinyuan Zhang. <br/>
   In <em>RANDOM 2025</em>.  
+
+* <b>Local Gibbs Sampling beyond Local Uniformity.</b> <a href="https://arxiv.org/pdf/2502.10795">[arXiv]</a> <br/>
+  Hongyang Liu, Chunyang Wang, Yitong Yin. <br/>
+  To appear in <em>ACM-SIAM Symposium on Discrete Algorithms (SODA) 2026</em>.  
 
 * <b>Tight Bounds for Sampling q-Colorings via Coupling from the Past.</b> <a href="https://arxiv.org/pdf/2511.04982">[arXiv]</a> <br/>
   Tianxing Ding, Hongyang Liu, Yitong Yin, Can Zhou. <br/>
