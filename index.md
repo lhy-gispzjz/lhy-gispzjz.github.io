@@ -47,7 +47,7 @@ The co-authors of papers are listed in alphabetical order.
 * Combinatorics (Spring 2020, 2021, 2023, 2024, 2025)
 
 ### Awards
-* 2023 ICPC World Final, Silver Medel.
+* 2023 ICPC World Final, 6th place, Silver Medel.
 * 2020 ICPC World Final Invitational, Runner-up (Silver Medel).
 * 2019 ICPC World Final, 13th place.
 * 2019 ICPC Nanchang Regional, Champion.
